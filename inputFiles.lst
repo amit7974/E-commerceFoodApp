@@ -1,1 +1,13 @@
-C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\test\java\com\example\demo\EcommerceprojectApplicationTests.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\controller\AdminController.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\controller\PageController.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\dto\ProductDt.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\EcommerceprojectApplication.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\entity\Admin.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\entity\Category.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\entity\Product.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\repository\AdminRepository.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\repository\CategoryRepository.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\repository\ProductRepository.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\service\AdminService.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\service\CategoryService.java
+C:\Users\dell\Downloads\ecommerceproject\ecommerceproject\src\main\java\com\project\service\ProductService.java
